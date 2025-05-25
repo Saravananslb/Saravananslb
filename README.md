@@ -108,4 +108,3 @@ A free and unlimited Python library that uses Google Translate Ajax API for lang
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saravananslb&theme=react-white&hide_border=true" />
 </p>
 
-<img src="https://pypistats.org/packages/pygoogletranslation">
